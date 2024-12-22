@@ -12,6 +12,12 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/YoGalaxyStar/GXLoader
 ```
 
 ## Supported Executers
+### Color Code
+🟢 - Works Perfectly
+<br/>
+🟠 - Partially Working
+<br/>
+🔴 - Doesn't Work At all / Only loads GX+ Universal
 ### Windows
 Argon - 🟢
 <br/>
