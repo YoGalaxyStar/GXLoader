@@ -18,7 +18,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/YoGalaxyStar/GXLoader
 🟠 - Partially Working
 <br/>
 🔴 - Doesn't Work At all / Only loads GX+ Universal
-### Windows
+# Windows
 Argon - 🟢
 <br/>
 Celery - 🔴
@@ -36,9 +36,9 @@ Synapse Z - 🟢
 Wave - 🟢
 <br/>
 Xeno - 🔴
-### Mac
+# Mac
 MacSploit - 🟢
-### IOS
+# IOS
 Arceus X - 🟢
 <br/>
 Codex - 🟢
@@ -46,7 +46,7 @@ Codex - 🟢
 Cubix - 🟢
 <br/>
 Delta - 🟢
-### Android
+# Android
 Arceus X - 🟢
 <br/>
 Codex - 🟢
