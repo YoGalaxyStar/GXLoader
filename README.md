@@ -63,10 +63,12 @@ Vega X - 🟢
 <br/>
 [7GrandDad](https://github.com/7GrandDadPGN) - Script Source Owner {Discord Username: [vaperoblox](https://discord.com/users/1125789044249460786)}
 <br/>
+
 Source Link: https://github.com/7GrandDadPGN/VapeV4ForRoblox
 <br/>
 IMPORTANT NOTE: This is not a copy of the original source. The developers have modified and enhanced it to improve the experience of the players.
 <br/>
+
 [rce-incorporated](https://github.com/rce-incorporated/Fiu) - LuaU bytecode disassembly with modifications.
 <br/>
 [Egor Skriptunoff, boatbomber, and howmanysmall](https://devforum.roblox.com/t/open-source-hashlib/416732/1) - HashLibrary for LuaU.
