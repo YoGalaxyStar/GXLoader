@@ -67,16 +67,16 @@ Vega X - 🟢
 ## Developers & Credits
 [YoGalaxyStar](https://github.com/YoGalaxyStar) - Owner / Lead Developer {Discord Username: [YoGalaxyStar](https://discord.com/users/1284641374787866666)}
 <br/>
-[7GrandDad](https://github.com/7GrandDadPGN) - Script Source Owner {Discord Username: [vaperoblox](https://discord.com/users/1125789044249460786)}
-<br/>
-
-Source Link: https://github.com/7GrandDadPGN/VapeV4ForRoblox
-<br/>
-IMPORTANT NOTE: This is not a direct copy of the original source. The developers have modified and enhanced it to improve the experience of the players.
-<br/>
 
 [rce-incorporated](https://github.com/rce-incorporated/Fiu) - LuaU bytecode disassembly with modifications.
 <br/>
 [Egor Skriptunoff, boatbomber, and howmanysmall](https://devforum.roblox.com/t/open-source-hashlib/416732/1) - HashLibrary for LuaU.
 <br/>
 [Vernumerator](https://devforum.roblox.com/t/predict-projectile-ballistics-including-gravity-and-motion/1842434) - Projectile Prediction for Roblox.
+<br/>
+
+[7GrandDad](https://github.com/7GrandDadPGN) - Script Source Owner {Discord Username: [vaperoblox](https://discord.com/users/1125789044249460786)}
+<br/>
+Source Link: https://github.com/7GrandDadPGN/VapeV4ForRoblox
+<br/>
+IMPORTANT NOTE: This is not a direct copy of the original source. The developers have modified and enhanced it to improve the experience of the players.
