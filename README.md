@@ -1,4 +1,3 @@
-# GXLoader
 <h2 align="center">
     A Script for Roblox Bedwars, win every game with ease!
     <br/>
@@ -15,27 +14,43 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/YoGalaxyStar/GXLoader
 ## Supported Executers
 ### Windows
 Argon - 🟢
+<br/>
 Celery - 🔴
+<br/>
 Nezur - 🔴 {New Executer}
+<br/>
 Rebel - 🟠 {Assets may not load correctly}
+<br/>
 SaladExploits - 🔴
+<br/>
 Solara - 🔴
+<br/>
 Synapse Z - 🟢
+<br/>
 Wave - 🟢
+<br/>
 Xeno - 🔴
 ### Mac
 MacSploit - 🟢
 ### IOS
 Arceus X - 🟢
+<br/>
 Codex - 🟢
+<br/>
 Cubix - 🟢
+<br/>
 Delta - 🟢
 ### Android
 Arceus X - 🟢
+<br/>
 Codex - 🟢
+<br/>
 Cubix - 🟢
+<br/>
 Delta - 🟢
+<br/>
 Evon - 🟢
+<br/>
 Vega X - 🟢
 
 ## Contacts
@@ -49,6 +64,7 @@ Vega X - 🟢
 [7GrandDad](https://github.com/7GrandDadPGN) - Script Source Owner {Discord Username: [vaperoblox](https://discord.com/users/1125789044249460786)}
 <br/>
 Source Link: https://github.com/7GrandDadPGN/VapeV4ForRoblox
+<br/>
 IMPORTANT NOTE: This is not a copy of the original source. The developers have modified and enhanced it to improve the experience of the players.
 <br/>
 [rce-incorporated](https://github.com/rce-incorporated/Fiu) - LuaU bytecode disassembly with modifications.
