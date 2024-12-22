@@ -66,7 +66,7 @@ Vega X - 🟢
 
 Source Link: https://github.com/7GrandDadPGN/VapeV4ForRoblox
 <br/>
-IMPORTANT NOTE: This is not a copy of the original source. The developers have modified and enhanced it to improve the experience of the players.
+IMPORTANT NOTE: This is not a direct copy of the original source. The developers have modified and enhanced it to improve the experience of the players.
 <br/>
 
 [rce-incorporated](https://github.com/rce-incorporated/Fiu) - LuaU bytecode disassembly with modifications.
