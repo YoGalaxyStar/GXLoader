@@ -59,6 +59,10 @@ Evon - 🟢
 <br/>
 Vega X - 🟢
 
+## Wiki Info
+For detailed information and resources, visit the official wiki maintained by the source owner:
+https://github.com/7GrandDadPGN/VapeV4ForRoblox/wiki
+
 ## Contacts
 [Discord](https://discord.gg/3bSpSNTPsr)
 <br/>
